@@ -51,7 +51,22 @@ h1 span:nth-child(6)
 {
     animation-delay: 1.6s;
 }
-
+h1 span:nth-child(7)
+{
+    animation-delay: 1.9s;
+}
+h1 span:nth-child(8)
+{
+    animation-delay: 2.1s;
+}
+h1 span:nth-child(9)
+{
+    animation-delay: 2.4s;
+}
+h1 span:nth-child(10)
+{
+    animation-delay: 2.7s;
+}
 
 @keyframes animate{
     0%,100%{
